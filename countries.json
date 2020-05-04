@@ -1,0 +1,1044 @@
+{
+    "countries": [
+        {
+            "link": "https://wikitravel.org/en/Abkhazia",
+            "name": "Abkhazia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Afghanistan",
+            "name": "Afghanistan"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Aland Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Albania",
+            "name": "Albania"
+        },
+        {
+            "link": "https://wikitravel.org/en/Algeria",
+            "name": "Algeria"
+        },
+        {
+            "link": "https://wikitravel.org/en/American_Samoa",
+            "name": "American Samoa"
+        },
+        {
+            "link": "https://wikitravel.org/en/Andorra",
+            "name": "Andorra"
+        },
+        {
+            "link": "https://wikitravel.org/en/Angola",
+            "name": "Angola"
+        },
+        {
+            "link": "https://wikitravel.org/en/Anguilla",
+            "name": "Anguilla"
+        },
+        {
+            "link": "https://wikitravel.org/en/Antarctica",
+            "name": "Antarctica"
+        },
+        {
+            "link": "https://wikitravel.org/en/Antigua_and_Barbuda",
+            "name": "Antigua and Barbuda"
+        },
+        {
+            "link": "https://wikitravel.org/en/Argentina",
+            "name": "Argentina"
+        },
+        {
+            "link": "https://wikitravel.org/en/Armenia",
+            "name": "Armenia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Aruba",
+            "name": "Aruba"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ascension",
+            "name": "Ascension"
+        },
+        {
+            "link": "https://wikitravel.org/en/Australia",
+            "name": "Australia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Austria",
+            "name": "Austria"
+        },
+        {
+            "link": "https://wikitravel.org/en/Azerbaijan",
+            "name": "Azerbaijan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bahamas",
+            "name": "Bahamas"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bahrain",
+            "name": "Bahrain"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bangladesh",
+            "name": "Bangladesh"
+        },
+        {
+            "link": "https://wikitravel.org/en/Barbados",
+            "name": "Barbados"
+        },
+        {
+            "link": "https://wikitravel.org/en/Belarus",
+            "name": "Belarus"
+        },
+        {
+            "link": "https://wikitravel.org/en/Belgium",
+            "name": "Belgium"
+        },
+        {
+            "link": "https://wikitravel.org/en/Belize",
+            "name": "Belize"
+        },
+        {
+            "link": "https://wikitravel.org/en/Benin",
+            "name": "Benin"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bermuda",
+            "name": "Bermuda"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bhutan",
+            "name": "Bhutan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bolivia",
+            "name": "Bolivia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bonaire",
+            "name": "Bonaire"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bosnia_and_Herzegovina",
+            "name": "Bosnia and Herzegovina"
+        },
+        {
+            "link": "https://wikitravel.org/en/Botswana",
+            "name": "Botswana"
+        },
+        {
+            "link": "https://wikitravel.org/en/Brazil",
+            "name": "Brazil"
+        },
+        {
+            "link": "https://wikitravel.org/en/British_Virgin_Islands",
+            "name": "British Virgin Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Brunei",
+            "name": "Brunei"
+        },
+        {
+            "link": "https://wikitravel.org/en/Bulgaria",
+            "name": "Bulgaria"
+        },
+        {
+            "link": "https://wikitravel.org/en/Burkina_Faso",
+            "name": "Burkina Faso"
+        },
+        {
+            "link": "https://wikitravel.org/en/Burundi",
+            "name": "Burundi"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cambodia",
+            "name": "Cambodia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cameroon",
+            "name": "Cameroon"
+        },
+        {
+            "link": "https://wikitravel.org/en/Canada",
+            "name": "Canada"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cape_Verde",
+            "name": "Cape Verde"
+        },
+        {
+            "link": "https://wikitravel.org/en/Central_African_Republic",
+            "name": "Central African Republic"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cayman_Islands",
+            "name": "Cayman Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Chad",
+            "name": "Chad"
+        },
+        {
+            "link": "https://wikitravel.org/en/Chile",
+            "name": "Chile"
+        },
+        {
+            "link": "https://wikitravel.org/en/China",
+            "name": "China"
+        },
+        {
+            "link": "https://wikitravel.org/en/Christmas_Island",
+            "name": "Christmas Island"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Cocos (Keeling) Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Colombia",
+            "name": "Colombia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Comoros",
+            "name": "Comoros"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cook_Islands",
+            "name": "Cook Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Costa_Rica",
+            "name": "Costa Rica"
+        },
+        {
+            "link": "https://wikitravel.org/en/Croatia",
+            "name": "Croatia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cuba",
+            "name": "Cuba"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Curacao"
+        },
+        {
+            "link": "https://wikitravel.org/en/Cyprus",
+            "name": "Cyprus"
+        },
+        {
+            "link": "https://wikitravel.org/en/Czech_Republic",
+            "name": "Czech Republic"
+        },
+        {
+            "link": "https://wikitravel.org/en/Denmark",
+            "name": "Denmark"
+        },
+        {
+            "link": "https://wikitravel.org/en/Djibouti",
+            "name": "Djibouti"
+        },
+        {
+            "link": "https://wikitravel.org/en/Dominica",
+            "name": "Dominica"
+        },
+        {
+            "link": "https://wikitravel.org/en/Dominican_Republic",
+            "name": "Dominican Republic"
+        },
+        {
+            "link": "https://wikitravel.orgnew",
+            "name": "Donetsk`s Republic"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "DR Congo"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ecuador",
+            "name": "Ecuador"
+        },
+        {
+            "link": "https://wikitravel.org/en/Egypt",
+            "name": "Egypt"
+        },
+        {
+            "link": "https://wikitravel.org/en/El_Salvador",
+            "name": "El Salvador"
+        },
+        {
+            "link": "https://wikitravel.org/en/Equatorial_Guinea",
+            "name": "Equatorial Guinea"
+        },
+        {
+            "link": "https://wikitravel.org/en/Eritrea",
+            "name": "Eritrea"
+        },
+        {
+            "link": "https://wikitravel.org/en/Estonia",
+            "name": "Estonia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ethiopia",
+            "name": "Ethiopia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Falkland_Islands",
+            "name": "Falkland Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Faroe_Islands",
+            "name": "Faroe Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Fiji",
+            "name": "Fiji"
+        },
+        {
+            "link": "https://wikitravel.org/en/Finland",
+            "name": "Finland"
+        },
+        {
+            "link": "https://wikitravel.org/en/France",
+            "name": "France"
+        },
+        {
+            "link": "https://wikitravel.org/en/Federated_States_of_Micronesia",
+            "name": "FS Micronesia"
+        },
+        {
+            "link": "https://wikitravel.org/en/French_Guiana",
+            "name": "French Guiana"
+        },
+        {
+            "link": "https://wikitravel.org/en/French_Polynesia",
+            "name": "French Polynesia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Gabon",
+            "name": "Gabon"
+        },
+        {
+            "link": "https://wikitravel.org/en/Gambia",
+            "name": "Gambia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Georgia",
+            "name": "Georgia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Germany",
+            "name": "Germany"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ghana",
+            "name": "Ghana"
+        },
+        {
+            "link": "https://wikitravel.org/en/Gibraltar",
+            "name": "Gibraltar"
+        },
+        {
+            "link": "https://wikitravel.org/en/Greece",
+            "name": "Greece"
+        },
+        {
+            "link": "https://wikitravel.org/en/Greenland",
+            "name": "Greenland"
+        },
+        {
+            "link": "https://wikitravel.org/en/Grenada",
+            "name": "Grenada"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guam",
+            "name": "Guam"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guadalupe",
+            "name": "Guadalupe"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guatemala",
+            "name": "Guatemala"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Guernsey"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guinea",
+            "name": "Guinea"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guinea-Bissau",
+            "name": "Guinea-Bissau"
+        },
+        {
+            "link": "https://wikitravel.org/en/Guyana",
+            "name": "Guyana"
+        },
+        {
+            "link": "https://wikitravel.org/en/Haiti",
+            "name": "Haiti"
+        },
+        {
+            "link": "https://wikitravel.org/en/Honduras",
+            "name": "Honduras"
+        },
+        {
+            "link": "https://wikitravel.org/en/Hong_Kong",
+            "name": "Hong Kong"
+        },
+        {
+            "link": "https://wikitravel.org/en/Hungary",
+            "name": "Hungary"
+        },
+        {
+            "link": "https://wikitravel.org/en/Iceland",
+            "name": "Iceland"
+        },
+        {
+            "link": "https://wikitravel.org/en/India",
+            "name": "India (Hindustan)"
+        },
+        {
+            "link": "https://wikitravel.org/en/Indonesia",
+            "name": "Indonesia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Iran",
+            "name": "Iran"
+        },
+        {
+            "link": "https://wikitravel.org/en/Iraq",
+            "name": "Iraq"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ireland",
+            "name": "Ireland"
+        },
+        {
+            "link": "https://wikitravel.org/en/Isle_of_Man",
+            "name": "Isle of Man"
+        },
+        {
+            "link": "https://wikitravel.org/en/Israel",
+            "name": "Israel"
+        },
+        {
+            "link": "https://wikitravel.org/en/Italy",
+            "name": "Italy"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Ivory Coast"
+        },
+        {
+            "link": "https://wikitravel.org/en/Jamaica",
+            "name": "Jamaica"
+        },
+        {
+            "link": "https://wikitravel.org/en/Jan_Mayen",
+            "name": "Jan Mayen"
+        },
+        {
+            "link": "https://wikitravel.org/en/Japan",
+            "name": "Japan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Jersey",
+            "name": "Jersey"
+        },
+        {
+            "link": "https://wikitravel.org/en/Jordan",
+            "name": "Jordan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kazakhstan",
+            "name": "Kazakhstan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kenya",
+            "name": "Kenya"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kiribati",
+            "name": "Kiribati"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kosovo",
+            "name": "Kosovo"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kuwait",
+            "name": "Kuwait"
+        },
+        {
+            "link": "https://wikitravel.org/en/Kyrgyzstan",
+            "name": "Kyrgyzstan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Laos",
+            "name": "Laos"
+        },
+        {
+            "link": "https://wikitravel.org/en/Latvia",
+            "name": "Latvia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Lebanon",
+            "name": "Lebanon"
+        },
+        {
+            "link": "https://wikitravel.org/en/Lesotho",
+            "name": "Lesotho"
+        },
+        {
+            "link": "https://wikitravel.org/en/Liberia",
+            "name": "Liberia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Libya",
+            "name": "Libya"
+        },
+        {
+            "link": "https://wikitravel.org/en/Liechtenstein",
+            "name": "Liechtenstein"
+        },
+        {
+            "link": "https://wikitravel.org/en/Lithuania",
+            "name": "Lithuania"
+        },
+        {
+            "link": "https://wikitravel.orgnew",
+            "name": "Luhansk Republic"
+        },
+        {
+            "link": "https://wikitravel.org/en/Luxembourg",
+            "name": "Luxembourg"
+        },
+        {
+            "link": "https://wikitravel.org/en/Macau",
+            "name": "Macau"
+        },
+        {
+            "link": "https://wikitravel.org/en/Macedonia",
+            "name": "Macedonia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Madagascar",
+            "name": "Madagascar"
+        },
+        {
+            "link": "https://wikitravel.org/en/Malawi",
+            "name": "Malawi"
+        },
+        {
+            "link": "https://wikitravel.org/en/Malaysia",
+            "name": "Malaysia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Maldives",
+            "name": "Maldives"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mali",
+            "name": "Mali"
+        },
+        {
+            "link": "https://wikitravel.org/en/Malta",
+            "name": "Malta"
+        },
+        {
+            "link": "https://wikitravel.org/en/Marshall_Islands",
+            "name": "Marshall Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Martinique",
+            "name": "Martinique"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mauritania",
+            "name": "Mauritania"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mauritius",
+            "name": "Mauritius"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mayotte",
+            "name": "Mayotte"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mexico",
+            "name": "Mexico"
+        },
+        {
+            "link": "https://wikitravel.org/en/Moldova",
+            "name": "Moldova"
+        },
+        {
+            "link": "https://wikitravel.org/en/Monaco",
+            "name": "Monaco"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mongolia",
+            "name": "Mongolia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Montserrat",
+            "name": "Montserrat"
+        },
+        {
+            "link": "https://wikitravel.org/en/Montenegro",
+            "name": "Montenegro"
+        },
+        {
+            "link": "https://wikitravel.org/en/Morocco",
+            "name": "Morocco"
+        },
+        {
+            "link": "https://wikitravel.org/en/Mozambique",
+            "name": "Mozambique"
+        },
+        {
+            "link": "https://wikitravel.org/en/Myanmar",
+            "name": "Myanmar"
+        },
+        {
+            "link": "https://wikitravel.org/en/Nagorno-Karabakh",
+            "name": "Nagorno-Karabakh"
+        },
+        {
+            "link": "https://wikitravel.org/en/Namibia",
+            "name": "Namibia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Nauru",
+            "name": "Nauru"
+        },
+        {
+            "link": "https://wikitravel.org/en/Nepal",
+            "name": "Nepal"
+        },
+        {
+            "link": "https://wikitravel.org/en/Netherlands",
+            "name": "Netherlands"
+        },
+        {
+            "link": "https://wikitravel.org/en/New_Caledonia",
+            "name": "New Caledonia"
+        },
+        {
+            "link": "https://wikitravel.org/en/New_Zealand",
+            "name": "New Zealand"
+        },
+        {
+            "link": "https://wikitravel.org/en/Nicaragua",
+            "name": "Nicaragua"
+        },
+        {
+            "link": "https://wikitravel.org/en/Niger",
+            "name": "Niger"
+        },
+        {
+            "link": "https://wikitravel.org/en/Nigeria",
+            "name": "Nigeria"
+        },
+        {
+            "link": "https://wikitravel.org/en/Niue",
+            "name": "Niue"
+        },
+        {
+            "link": "https://wikitravel.org/en/Norfolk_Island",
+            "name": "Norfolk Island"
+        },
+        {
+            "link": "https://wikitravel.org/en/North_Korea",
+            "name": "North Korea"
+        },
+        {
+            "link": "https://wikitravel.org/en/Northern_Cyprus",
+            "name": "Northern Cyprus"
+        },
+        {
+            "link": "https://wikitravel.org/en/Northern_Mariana_Islands",
+            "name": "Northern Mariana Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Norway",
+            "name": "Norway"
+        },
+        {
+            "link": "https://wikitravel.org/en/Oman",
+            "name": "Oman"
+        },
+        {
+            "link": "https://wikitravel.org/en/Pakistan",
+            "name": "Pakistan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Palau",
+            "name": "Palau"
+        },
+        {
+            "link": "https://wikitravel.org/en/Palestinian_Territories",
+            "name": "Palestinian Territories"
+        },
+        {
+            "link": "https://wikitravel.org/en/Panama",
+            "name": "Panama"
+        },
+        {
+            "link": "https://wikitravel.org/en/Papua_New_Guinea",
+            "name": "Papua New Guinea"
+        },
+        {
+            "link": "https://wikitravel.org/en/Paraguay",
+            "name": "Paraguay"
+        },
+        {
+            "link": "https://wikitravel.org/en/Peru",
+            "name": "Peru"
+        },
+        {
+            "link": "https://wikitravel.org/en/Philippines",
+            "name": "Philippines"
+        },
+        {
+            "link": "https://wikitravel.org/en/Pitcairn_Islands",
+            "name": "Pitcairn Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Poland",
+            "name": "Poland"
+        },
+        {
+            "link": "https://wikitravel.org/en/Portugal",
+            "name": "Portugal"
+        },
+        {
+            "link": "https://wikitravel.org/en/Pridnestrovie",
+            "name": "Pridnestrovie"
+        },
+        {
+            "link": "https://wikitravel.org/en/Puerto_Rico",
+            "name": "Puerto Rico"
+        },
+        {
+            "link": "https://wikitravel.org/en/Qatar",
+            "name": "Qatar"
+        },
+        {
+            "link": "https://wikitravel.org/en/Reunion",
+            "name": "Reunion"
+        },
+        {
+            "link": "https://wikitravel.org/en/Romania",
+            "name": "Romania"
+        },
+        {
+            "link": "https://wikitravel.org/en/Russia",
+            "name": "Russia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Rwanda",
+            "name": "Rwanda"
+        },
+        {
+            "link": "https://wikitravel.org/en/Republic_of_the_Congo",
+            "name": "Republic of the Congo"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saba",
+            "name": "Saba"
+        },
+        {
+            "link": "https://wikitravel.org/en/Western_Sahara",
+            "name": "Sahrawi Republic"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Saint Barthelemy"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saint_Helena",
+            "name": "Saint Helena"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saint_Kitts_and_Nevis",
+            "name": "Saint Kitts and Nevis"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saint_Lucia",
+            "name": "Saint Lucia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saint_Martin",
+            "name": "Saint Martin"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Saint Pierre and Miquelon"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saint_Vincent_and_the_Grenadines",
+            "name": "Saint Vincent and the Grenadines"
+        },
+        {
+            "link": "https://wikitravel.org/en/Samoa",
+            "name": "Samoa"
+        },
+        {
+            "link": "https://wikitravel.org/en/San_Marino",
+            "name": "San Marino"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Sao Tome and Principe"
+        },
+        {
+            "link": "https://wikitravel.org/en/Saudi_Arabia",
+            "name": "Saudi Arabia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sealand",
+            "name": "Sealand"
+        },
+        {
+            "link": "https://wikitravel.org/en/Senegal",
+            "name": "Senegal"
+        },
+        {
+            "link": "https://wikitravel.org/en/Serbia",
+            "name": "Serbia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Seychelles",
+            "name": "Seychelles"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sierra_Leone",
+            "name": "Sierra Leone"
+        },
+        {
+            "link": "https://wikitravel.org/en/Singapore",
+            "name": "Singapore"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sint_Eustatius",
+            "name": "Sint Eustatius"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Sint Maarten"
+        },
+        {
+            "link": "https://wikitravel.org/en/Slovakia",
+            "name": "Slovakia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Slovenia",
+            "name": "Slovenia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Solomon_Islands",
+            "name": "Solomon Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Somalia",
+            "name": "Somalia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Somaliland",
+            "name": "Somaliland"
+        },
+        {
+            "link": "https://wikitravel.org/en/South_Africa",
+            "name": "South Africa"
+        },
+        {
+            "link": "https://wikitravel.org/en/South_Georgia_and_the_South_Sandwich_Islands",
+            "name": "South Georgia and the South Sandwich Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/South_Korea",
+            "name": "South Korea"
+        },
+        {
+            "link": "https://wikitravel.org/en/South_Ossetia",
+            "name": "South Ossetia"
+        },
+        {
+            "link": "https://wikitravel.org/en/South_Sudan",
+            "name": "South Sudan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Spain",
+            "name": "Spain"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sri_Lanka",
+            "name": "Sri Lanka"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sudan",
+            "name": "Sudan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Suriname",
+            "name": "Suriname"
+        },
+        {
+            "link": "https://wikitravel.org/en/Svalbard",
+            "name": "Svalbard"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Swaziland"
+        },
+        {
+            "link": "https://wikitravel.org/en/Sweden",
+            "name": "Sweden"
+        },
+        {
+            "link": "https://wikitravel.org/en/Switzerland",
+            "name": "Switzerland"
+        },
+        {
+            "link": "https://wikitravel.org/en/Syria",
+            "name": "Syria"
+        },
+        {
+            "link": "https://wikitravel.org/en/Taiwan",
+            "name": "Taiwan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tajikistan",
+            "name": "Tajikistan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tanzania",
+            "name": "Tanzania"
+        },
+        {
+            "link": "https://wikitravel.org/en/Thailand",
+            "name": "Thailand"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Timor-Leste"
+        },
+        {
+            "link": "https://wikitravel.org/en/Togo",
+            "name": "Togo"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tokelau",
+            "name": "Tokelau"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tonga",
+            "name": "Tonga"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tibet",
+            "name": "Tibet"
+        },
+        {
+            "link": "https://wikitravel.org/en/Trinidad_and_Tobago",
+            "name": "Trinidad and Tobago"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tristan_da_Cunha",
+            "name": "Tristan da Cunha"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tunisia",
+            "name": "Tunisia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Turkey",
+            "name": "Turkey"
+        },
+        {
+            "link": "https://wikitravel.org/en/Turkmenistan",
+            "name": "Turkmenistan"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Turks and Caicos"
+        },
+        {
+            "link": "https://wikitravel.org/en/Tuvalu",
+            "name": "Tuvalu"
+        },
+        {
+            "link": "https://wikitravel.org/en/Uganda",
+            "name": "Uganda"
+        },
+        {
+            "link": "https://wikitravel.org/en/Ukraine",
+            "name": "Ukraine"
+        },
+        {
+            "link": "https://wikitravel.org/en/United_Arab_Emirates",
+            "name": "United Arab Emirates"
+        },
+        {
+            "link": "https://wikitravel.org/en/United_Kingdom",
+            "name": "United Kingdom"
+        },
+        {
+            "link": "https://wikitravel.org/en/United_States_of_America",
+            "name": "United States of America"
+        },
+        {
+            "link": "https://wikitravel.org/en/Uruguay",
+            "name": "Uruguay"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "US Virgin Islands"
+        },
+        {
+            "link": "https://wikitravel.org/en/Uzbekistan",
+            "name": "Uzbekistan"
+        },
+        {
+            "link": "https://wikitravel.org/en/Vanuatu",
+            "name": "Vanuatu"
+        },
+        {
+            "link": "https://wikitravel.orgmw-redirect",
+            "name": "Vatican City"
+        },
+        {
+            "link": "https://wikitravel.org/en/Venezuela",
+            "name": "Venezuela"
+        },
+        {
+            "link": "https://wikitravel.org/en/Vietnam",
+            "name": "Vietnam"
+        },
+        {
+            "link": "https://wikitravel.org/en/Wallis_and_Futuna",
+            "name": "Wallis and Futuna"
+        },
+        {
+            "link": "https://wikitravel.org/en/Yemen",
+            "name": "Yemen"
+        },
+        {
+            "link": "https://wikitravel.org/en/Zambia",
+            "name": "Zambia"
+        },
+        {
+            "link": "https://wikitravel.org/en/Zimbabwe",
+            "name": "Zimbabwe"
+        }
+    ]
+}
